@@ -52,7 +52,7 @@ int main()
          << endl;
     cout << "\n\t\t\t<<<<<<<<<<WELCOME USERS>>>>>>>>>>\n";
     cout << "\n\n\t\t\t\t*********MENU*********\n";
-    cout << "\n\t\t\t 1.VIEW INFORMATION\n";
+    cout << "\n\t\t\t 1.VIEW INFORMATION \n";
     cout << "\n\t\t\t 2.BOOK TICKET\n";
     cout << "\n\t\t\t 3.CANCEL TICKET\n";
     cout << "\n\t\t\t 4.ADMIN\n";
